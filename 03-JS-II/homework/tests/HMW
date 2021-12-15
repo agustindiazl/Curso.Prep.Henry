@@ -1,0 +1,2 @@
+for == se utiliza para hacer tareas que pueden llegar a ser repetitivas. Evalua expresiones hasta que encuentra lo que estamos buscando o se detiene luego de cierto tiempo.
+&& || ! son expresiones realacionadas a la logica y y, o y no. Sirven para concatenar ciertas lineas de codigos o para establcer condicionalidades.
