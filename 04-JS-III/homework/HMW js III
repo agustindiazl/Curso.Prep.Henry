@@ -1,0 +1,2 @@
+Array (arreglo en ingles) :  Es una coleccion de elementos ordenados a los que se pueden acceder a traves de un indice. 
+Es definido usando []. Pueden recibir cualquier tipo de dato (numero, string, var, function, undefinded, null)
