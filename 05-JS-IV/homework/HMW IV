@@ -1,0 +1,6 @@
+Objetos
+	* Propiedades = es la asociacion entre un nombre (o clave) y un valor.
+	* Métodos = es la funcion con un determinado valor
+	* Bucle `for…in` = permite correr un numero determinado o indeterminado de vueltas. Nos permite reducir la longitud del codigo.
+	* Notación de puntos vs notación de corchetes = la notacion de puntos sirve para obtener un valor dentro de un objeto en cambio,
+    la notacion de corchetes incluye a todos los valores dentro de una propiedad.
