@@ -1,0 +1,2 @@
+prototype = son mecanismos mediante el cual los objetos heredan caracteristicas entre si. Estas caracteristicas pueden ser metodos o propiedades.
+constructor = hace referencia al objeto que creo la instancia. El valor de este objeto es una referencia a la funcion por si misma.
